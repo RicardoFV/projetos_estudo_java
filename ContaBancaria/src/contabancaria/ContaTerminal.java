@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author ricar
  */
-public class ContaBancaria {
+public class ContaTerminal {
 
     /**
      * @param args the command line arguments
